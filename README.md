@@ -3,7 +3,7 @@
 
 This project is a frontend replica of YouTube, showcasing a sleek and intuitive interface designed using HTML, CSS, and JavaScript. The project captures the essence of YouTube's user experience, providing users with familiar elements and interactive features.
 
-- [youtube-replica](https://radiant-kitsune-a64fb7.netlify.app/)
+- [youtube-replica](https://youtube-replica-frontend.netlify.app/)
 
 ## Features:
 
